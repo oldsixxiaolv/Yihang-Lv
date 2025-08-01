@@ -1,4 +1,4 @@
-******_Stage-dependent relationships between lightning and storm structures_
+					**Stage-dependent relationships between lightning and storm structures**
 
 					Creator: Lv yihang  ;  Institude: Lanzhou University  ;  Supervisor：Wu Xueke
 
